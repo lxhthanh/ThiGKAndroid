@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DemoApiRequestApplication</string>
+    <string name="username">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="code">MSSV</string>
+    <string name="name">Ten</string>
+    <string name="age">Tuoi</string>
+    <string name="sClass">Lop</string>
+    <string name="email">Email</string>
+    <string name="tvLogin">Login</string>
+    <string name="sUpdate">Update</string>
+    <string name="sDelete">Delete</string>
+    <string name="credits">Credits</string>
+    <string name="subject_code">Subject Code</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="description">Description</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="producer">Producer</string>
+    <string name="insert">Insert</string>
+    <string name="user_id">User ID</string>
+    <string name="name_insert">Insert New Item</string>
+</resources>
